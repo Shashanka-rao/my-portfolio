@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Portfolio Website",
+      "description": "A modern responsive portfolio site.",
+      "tags": ["React", "Bootstrap"],
+      "github": "#",
+      "live": "#"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "Full-stack blog with Spring Boot and React.",
+      "tags": ["Java", "Spring", "React"],
+      "github": "#",
+      "live": "#"
+    }
+  ]

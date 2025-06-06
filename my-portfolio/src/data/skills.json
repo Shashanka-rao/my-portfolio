@@ -1,0 +1,6 @@
+{
+    "Frontend": ["React", "JavaScript", "HTML", "CSS", "Bootstrap"],
+    "Backend": ["Java", "Spring Boot", "Node.js"],
+    "Tools": ["Git", "Docker", "Postman", "VS Code"]
+  }
+  
